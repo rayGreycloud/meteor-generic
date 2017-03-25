@@ -2,7 +2,7 @@ import React from 'react';
 
 import PrivateHeader from './PrivateHeader';
 
-const Link = () => {
+const Dashboard = () => {
   return (
     <div>
       <PrivateHeader title="Dashboard" />
